@@ -2,7 +2,6 @@
 
 # Data Challenge
 
-
 ## Accessing the database
 You will need to access our MySQL database for this challenge. The database credentials will be sent to you by e-mail.
 
@@ -62,7 +61,7 @@ You will need to access our MySQL database for this challenge. The database cred
  </details>
 
 ### SQL test
-After accessing our database, create queries using the schema **looqbox_challenge** to answer the following questions:
+After accessing our database, create queries using the schema **______ challenge** to answer the following questions:
 
 1) What are the 10 most expensive products in the company?
 2) What sections do the 'BEBIDAS' and 'PADARIA' departments have?
